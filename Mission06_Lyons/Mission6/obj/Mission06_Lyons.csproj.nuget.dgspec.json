@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission6\\Mission06_Lyons.csproj": {}
+    "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission06_Lyons\\Mission6\\Mission06_Lyons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission6\\Mission06_Lyons.csproj": {
+    "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission06_Lyons\\Mission6\\Mission06_Lyons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission6\\Mission06_Lyons.csproj",
+        "projectUniqueName": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission06_Lyons\\Mission6\\Mission06_Lyons.csproj",
         "projectName": "Mission06_Lyons",
-        "projectPath": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission6\\Mission06_Lyons.csproj",
+        "projectPath": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission06_Lyons\\Mission6\\Mission06_Lyons.csproj",
         "packagesPath": "C:\\Users\\Adam Lyons\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission6\\obj\\",
+        "outputPath": "C:\\Users\\Adam Lyons\\Documents\\Winter 2023 IS JR CORE\\IS 413\\Mission6\\Mission06_Lyons\\Mission6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam Lyons\\AppData\\Roaming\\NuGet\\NuGet.Config",

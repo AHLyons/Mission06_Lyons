@@ -9,35 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mission06_Lyons
 build_property.RootNamespace = Mission06_Lyons
-build_property.ProjectDir = C:\Users\Adam Lyons\Documents\Winter 2023 IS JR CORE\IS 413\Mission6\Mission6\
+build_property.ProjectDir = C:\Users\Adam Lyons\Documents\Winter 2023 IS JR CORE\IS 413\Mission6\Mission06_Lyons\Mission6\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Adam Lyons\Documents\Winter 2023 IS JR CORE\IS 413\Mission6\Mission6
+build_property.MSBuildProjectDirectory = C:\Users\Adam Lyons\Documents\Winter 2023 IS JR CORE\IS 413\Mission6\Mission06_Lyons\Mission6
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/Home/About.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/Home/Index.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/Home/NewMovie.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Home/MovieList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Home/NewMovie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdNb3ZpZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/_ViewImports.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/_ViewStart.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission6/Views/Shared/_Layout.cshtml]
+[C:/Users/Adam Lyons/Documents/Winter 2023 IS JR CORE/IS 413/Mission6/Mission06_Lyons/Mission6/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6weo2oujxx
